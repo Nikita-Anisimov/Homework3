@@ -1,6 +1,5 @@
 ### IntelliJ IDEA ###
 .idea
-HW-3.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
